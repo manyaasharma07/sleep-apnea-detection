@@ -1,0 +1,6 @@
+# Ollama model files
+.ollama/
+ollama_models/
+models/
+*.bin
+*.gguf
